@@ -1,5 +1,7 @@
 //Find the center of a circle
 
+// Theory here: https://goodcalculators.com/best-fit-circle-least-squares-calculator/
+
 #include <BasicLinearAlgebra.h>
 using namespace BLA;
 
